@@ -1,0 +1,6 @@
+interface:
+  display_name: "Start UI Design"
+  short_description: "Reference-first collaborative UI design workflow"
+  default_prompt: "Use $start-ui-design to guide me through designing this interface from discovery to a production-ready direction."
+policy:
+  allow_implicit_invocation: false
